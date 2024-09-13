@@ -17,6 +17,7 @@ src/* linguist-vendored
 notebook/* linguist-vendored
 bin/* linguist-vendored
 spec/* linguist-vendored
+javascript/* linguist-vendored
 
 # Exclude Handlebars, SCSS, HTML, CSS, Jupyter Notebooks from language statistics
 *.hbs linguist-vendored
